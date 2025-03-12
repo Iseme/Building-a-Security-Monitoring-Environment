@@ -1,5 +1,5 @@
 # Building-a-Security-Monitoring-Environment
-Used Splunk to build a custom security monitoring environment (SIEM) for a fictional organization, Virtual Space Industries (VSI)
+Used Splunk to build a custom security monitoring environment (SIEM) for a fictional organization, Virtual Space Industries (VSI).
 
 # Overview: 
 In this project, I utilized Splunk to build a custom security monitoring environment (SIEM) for a fictional organization, focusing on detecting and analyzing simulated cyber attacks. The goal was to enhance the organization's ability to monitor security events and respond to potential threats effectively.
